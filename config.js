@@ -43,11 +43,11 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "0711305094",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "923237045919",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "OBITO",
+OWNER_NAME: process.env.OWNER_NAME || "ArslanMD Official",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "*©𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 OBITO*",
+DESCRIPTION: process.env.DESCRIPTION || "*from OBITO*",
 // add bot owner name    
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/z8jo34.jpg",
 // add img for alive msg
