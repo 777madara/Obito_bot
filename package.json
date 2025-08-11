@@ -1,12 +1,12 @@
 {
-  "name": "OBITO_bot",
+  "name": "OBITO_BOT",
   "version": "4.5.0",
   "description": "A WhatsApp Bot Created By OBITO",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name OBITO_bot",
-    "stop": "pm2 stop OBITO_bot",
-    "restart": "pm2 restart OBITO_bot"
+    "start": "pm2 start index.js --deep-monitoring --attach --name OBITO_BOT",
+    "stop": "pm2 stop OBITO_BOT",
+    "restart": "pm2 restart OBITO_BOT"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "npm:baileys-pro@latest",
