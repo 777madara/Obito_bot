@@ -1,6 +1,5 @@
-name: OBITO_bot
-services:
-  - name: OBITO_bot-service
+name: OBITO_ BOT
+  - name: OBITO_BOT-service
     type: web
     ports:
       - 5000
