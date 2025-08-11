@@ -1,6 +1,6 @@
-name: Arslan_MD
+name: OBITO_bot
 services:
-  - name: arslan_md-service
+  - name: OBITO_bot-service
     type: web
     ports:
       - 5000
