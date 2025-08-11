@@ -1,8 +1,8 @@
 {
-  "name": "OBITO_bot",
+  "name": "OBITO_BOT",
   "description": "Javascript WhatsApp bot made by OBITO",
   "logo": "https://files.catbox.moe/z8jo34.jpg",
-  "keywords": ["OBITO_bot"],
+  "keywords": ["OBITO_BOT"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "OBITO_bot"
+      "value": "OBITO"
     }, 
       
     "PREFIX": {
@@ -104,7 +104,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "OBITO_bot"
+      "value": "OBITO_BOT"
 
       }, 
 
